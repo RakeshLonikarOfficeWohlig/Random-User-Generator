@@ -1,0 +1,3 @@
+>>To install Veu >>npm install -g @vue/cli
+>>To check >>vue
+>> vue create demo -select default 
